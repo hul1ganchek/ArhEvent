@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArhEvent</string>
+    <string-array name="frequency_options">
+        <item>Каждые 5 мин</item>
+        <item>Раз в час</item>
+        <item>Раз в день</item>
+        <item>Раз в неделю</item>
+    </string-array>
+</resources>
