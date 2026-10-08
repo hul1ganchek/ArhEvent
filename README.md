@@ -19,6 +19,7 @@ Permissions:
 ## Screenshots
 ### Screen «Home»
 <img width="332" height="541" alt="image" src="https://github.com/user-attachments/assets/2f13c20f-8b72-4d81-aa00-35b250308e91" />
+
 ### Screen «Settings»
 <img width="354" height="521" alt="image" src="https://github.com/user-attachments/assets/63edb99e-947b-4ae6-a05a-479bc0fc8eeb" />
 
