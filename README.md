@@ -1,7 +1,7 @@
 # ArhEvent 
 An Android application for informing residents of the Arkhangelsk region about incidents.
 
-This repository contains the source code for the ArhEvent mobile client, developed as a course project.
+This repository contains the source code for the ArhEvent mobile client, developed and defended as a course project.
 
 ## Features
 - instantly fetches and processes emergency updates from regional open sources;
