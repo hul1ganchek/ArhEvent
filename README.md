@@ -15,7 +15,7 @@ Clone the repo and build it in Android Studio, or download the `.apk` from Relea
 
 Permissions: 
 - allow the app to check your position;
-- enable notifications in settings.
+- allow notifications.
 
 ## Screenshots
 ### Screen «Home»
