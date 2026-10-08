@@ -12,6 +12,7 @@ This repository contains the source code for the ArhEvent mobile client, develop
 
 ## Usage
 Clone the repo and build it in Android Studio, or download the `.apk` from Releases.
+
 Permissions: 
 - allow on first launch to filter incidents by your district;
 - enable notifications in settings.
